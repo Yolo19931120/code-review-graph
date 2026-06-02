@@ -2,9 +2,10 @@
 
 ## Git Commit Convention
 
-All git commit messages made on behalf of the user must end with `# AI Commit 100% #`.
+- All git commit messages made on behalf of the user must be written in **Chinese**.
+- Always end with `# AI Commit 100% #`.
 
-Example: `chore: add uv mirror config # AI Commit 100% #`
+Example: `chore: 添加 uv 镜像源配置 # AI Commit 100% #`
 
 ## Project Overview
 
