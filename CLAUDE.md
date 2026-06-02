@@ -1,5 +1,11 @@
 # CLAUDE.md - Project Context for Claude Code
 
+## Git Commit Convention
+
+All git commit messages made on behalf of the user must end with `# AI Commit 100% #`.
+
+Example: `chore: add uv mirror config # AI Commit 100% #`
+
 ## Project Overview
 
 **code-review-graph** is a persistent, incrementally updated, local-first knowledge graph for token-efficient code review through MCP and the CLI. It parses codebases using Tree-sitter and targeted fallbacks, builds a structural graph in SQLite, and exposes compact context to AI coding tools including Claude Code, Codex, Cursor, Windsurf, Zed, Continue, OpenCode, Gemini CLI, Qwen, Kiro, Qoder, and GitHub Copilot.
